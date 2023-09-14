@@ -1,1 +1,2 @@
+En la clase main, creo dos objetos domicilios con sus respectivos atributos, luego creo al Cliente, agrego sus domicilios a cliente y los guardo en el repositorio cliente, creo el objeto pedido en la a su respectivo cliente y lo vuelvo a guardar en el repositorio cliente. Creo el objeto rubro y tambien creo dos productos, y los agrego a su respectivo rubro luego lo guardo en el repositorio rubro, genero los detalles de los pedidos y los guardo en pedido repositorio y por ultimo creo la factura y la guardo en persistencia factura
 # Tp1JPAdesarrollo
